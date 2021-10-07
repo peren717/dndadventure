@@ -1,0 +1,41 @@
+{
+  "name": "lost-mines-of-phandelver",
+  "title": "凡戴尔的失落矿坑",
+  "description": "<p>空白世界，用于使用默认数据复写新世界</p>",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [
+    {
+      "label": "Scene",
+      "entity": "Scene",
+      "name": "scene",
+      "path": "packs/scene.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "E:\\fvtt\\fvttdata\\Data\\worlds\\lost-mines-of-phandelver\\packs\\scene.db"
+    }
+  ],
+  "languages": [],
+  "authors": [],
+  "keywords": [],
+  "socket": false,
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": "",
+  "background": "",
+  "system": "dnd5e",
+  "coreVersion": "0.6.6",
+  "systemVersion": 0.96,
+  "nextSession": "",
+  "availability": 0,
+  "unavailable": false,
+  "id": "lost-mines-of-phandelver"
+}

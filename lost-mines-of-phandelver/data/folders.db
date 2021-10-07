@@ -1,0 +1,14 @@
+{"_id":"0u2fezKxUtnYj2ko","name":"杂项","type":"JournalEntry","sort":1200000,"flags":{},"parent":null,"color":""}
+{"_id":"5bscsnIe6Ac2sUSS","name":"附录A：魔法物品Magic Items","type":"Item","sort":null,"flags":{},"parent":null,"color":""}
+{"_id":"8ri6r5VOYxSS7CK5","name":"第1部分：地精箭头","type":"JournalEntry","sort":600000,"flags":{},"parent":null,"color":""}
+{"_id":"AWYznIQjt0W6ufXh","name":"克拉摩堡","type":"JournalEntry","sort":200000,"flags":{},"parent":"f3C7DEBC51SGRSzf","color":""}
+{"_id":"DN19fBB89GsVA7uG","name":"NPC","type":"JournalEntry","sort":1100000,"flags":{},"parent":null,"color":""}
+{"name":"第2部分：凡达林","type":"JournalEntry","sort":800000,"flags":{},"parent":null,"color":"","_id":"JZt4OWBuFZ3l79B5"}
+{"_id":"La97ynRVXd5xbRFO","name":"第4部分：潮音洞穴","type":"JournalEntry","sort":875000,"flags":{},"parent":null,"color":""}
+{"name":"附录B：怪物Monsters","type":"Actor","sort":null,"flags":{},"parent":null,"color":"","_id":"XACV0bUvav4b4llG"}
+{"_id":"c3OUPYTlu3AMsUU8","name":"雷树废墟","type":"JournalEntry","sort":100000,"flags":{},"parent":"f3C7DEBC51SGRSzf","color":""}
+{"_id":"f3C7DEBC51SGRSzf","name":"第3部分：蜘蛛之网","type":"JournalEntry","sort":850000,"flags":{},"parent":null,"color":""}
+{"_id":"n6Z1kFM8K5UW46qG","name":"克拉摩窝点","type":"JournalEntry","sort":100000,"flags":{},"parent":"8ri6r5VOYxSS7CK5","color":""}
+{"name":"怪物特性","type":"Item","sort":100000,"flags":{},"parent":null,"color":"","_id":"oggVQcBw8jhkNcwV"}
+{"name":"任务","type":"JournalEntry","sort":900000,"flags":{},"parent":null,"color":"","_id":"q6i0mtPKHI3NLIQv"}
+{"_id":"yGm7pSICiJNskPIq","name":"红标帮窝点","type":"JournalEntry","sort":100000,"flags":{},"parent":"JZt4OWBuFZ3l79B5","color":""}
